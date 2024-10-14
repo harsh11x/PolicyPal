@@ -1,0 +1,42 @@
+Acceptable Use Policy for {company_name}
+
+Effective date: {effective_date}
+
+This Acceptable Use Policy (AUP) outlines the acceptable use of resources and services provided by {company_name}. By using our services, you agree to comply with this policy.
+
+1. **Purpose**
+   The purpose of this policy is to ensure the integrity, security, and reliability of our network and services.
+
+2. **Scope**
+   This policy applies to all employees, contractors, and third-party users of {company_name} resources.
+
+3. **Acceptable Use**
+   Users are permitted to use {company_name}'s resources for:
+   - Conducting business-related activities
+   - Accessing company information and services
+   - Communicating professionally
+
+4. **Prohibited Activities**
+   The following activities are strictly prohibited:
+   - Unauthorized access to systems or data
+   - Distribution of spam or malicious software
+   - Harassment or offensive behavior
+   - Use of company resources for illegal activities
+
+5. **User Responsibilities**
+   Users must:
+   - Protect their login credentials and account information
+   - Report any security incidents or suspicious activities
+   - Use company resources responsibly and ethically
+
+6. **Enforcement**
+   Violations of this policy may result in disciplinary action, including termination of employment or legal action.
+
+7. **Policy Review**
+   This policy will be reviewed periodically and may be updated as necessary. Users will be notified of any changes.
+
+If you have any questions regarding this Acceptable Use Policy, please contact us at:
+- Email: [your-email@example.com]
+- Phone: [your-phone-number]
+
+Thank you for adhering to our Acceptable Use Policy at {company_name}!
