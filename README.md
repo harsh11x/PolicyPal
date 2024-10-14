@@ -5,9 +5,13 @@ PolicyPal is an AI-powered tool designed to generate customizable, compliant pol
 ## Features
 
 •	Automatically generates policies based on company details, industry, and location
+
 •	Supports multiple policy types (Privacy Policy, Terms of Service, Cookie Policy, and more)
+
 •	Checks for GDPR and CCPA compliance by analyzing key terms
+
 •	Allows adding custom clauses to policies
+
 •	Saves policies locally in a structured format
 
 ### Usage
@@ -30,9 +34,16 @@ PolicyPal is an AI-powered tool designed to generate customizable, compliant pol
 ## Supported Policies
 
 •	Privacy Policy
+
 •	Terms of Service
+
 •	Cookie Policy
+
 •	Data Protection Policy
+
 •	Refund Policy
+
 •	Compliance Policy
+
 •	Acceptable Use Policy
+
