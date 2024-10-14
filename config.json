@@ -1,0 +1,18 @@
+{
+    "default_industry": "ecommerce",
+    "default_country": "us",
+    "default_language": "en",
+    "default_privacy_level": "high",
+    "default_audience": "general",
+    "compliance_requirements": {
+        "gdpr": true,
+        "ccpa": true,
+        "hipaa": false,
+        "coppa": false
+    },
+    "template_version": "1.0",
+    "contact_information": {
+        "support_email": "support@example.com",
+        "support_phone": "+1-800-123-4567"
+    }
+}

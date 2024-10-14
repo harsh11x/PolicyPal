@@ -1,0 +1,6 @@
+Flask                # For web interface (if needed)
+requests             # For HTTP requests (if needed)
+pandas               # For data manipulation
+nltk                 # Natural Language Toolkit for NLP tasks
+spacy                # NLP library
+python-dotenv        # To manage environment variables
